@@ -4,7 +4,7 @@
 pkg install git -y
 
 # Clone the repository
-git clone https://github.com/aryabntng21/push-dmh3
+git clone https://github.com/aryabntng21/push-dmh5
 
 # Install Python
 pkg install python -y
